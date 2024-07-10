@@ -1,3 +1,6 @@
-3e25960a79dbc69b674cd4ec67a72c62 
-c28601cb49a787e508d2ca632a526e5f
-f43a1c7ba4944e2d881fb1981e73e88d
+3e25960a79dbc69b674cd4ec67a72c62    blocktest.file
+c28601cb49a787e508d2ca632a526e5f    blocktest.sh
+f43a1c7ba4944e2d881fb1981e73e88d    blocktest.json
+f0ef7081e1539ac00ef5b761b4fb01b3    blocktest.file for IBM i
+db4e15855956a9c045437af8e51439c7    blocktest.sh for IBM i
+3014baa6c7d8fa7a54a304b5a15db402    blocktest.json for IBM i
